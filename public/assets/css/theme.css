@@ -18465,6 +18465,15 @@ Calaendar icon input[type="date"]::-webkit-calendar-picker-indicator {
   border-radius: 15px;
 }
 
+#header {
+  margin-top: 80px;
+}
+
+#header {
+  background-color: #f1dadd;
+}
+
+
 /* =========================
    PRODUCTOS (cards)
    ========================= */
@@ -18528,8 +18537,4 @@ Calaendar icon input[type="date"]::-webkit-calendar-picker-indicator {
   background-color: transparent;
   border: none;
   color: #0d6efd;
-}
-
-#header {
-  margin-top: 80px;
 }
