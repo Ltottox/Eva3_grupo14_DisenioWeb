@@ -18452,6 +18452,17 @@ Calaendar icon input[type="date"]::-webkit-calendar-picker-indicator {
   color: #005DFF;
 }
 
+/* Cambia el color del título principal */
+h1.text-center {
+    color: #964554  /* Usamos !important para asegurar que sobrescriba clases de Bootstrap */
+}
+
+
+
+.card {
+    background-color: #f1dadd !important;
+    border: none;
+}
 /*-----------------------------------------------
 |   User Styles
 -----------------------------------------------*/
