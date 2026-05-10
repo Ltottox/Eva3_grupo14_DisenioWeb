@@ -3679,14 +3679,14 @@ fieldset:disabled .btn {
 
 .btn-warning {
   color: #FFFEFE;
-  background-color: #FF6A00;
-  border-color: #FF6A00;
+  background-color:#c87a8b;
+  border-color: #c87a8b;
 }
 
 .btn-warning:hover {
   color: #FFFEFE;
-  background-color: #d95a00;
-  border-color: #cc5500;
+  background-color:#a65c6c;
+  border-color: #a65c6c;
 }
 
 .btn-check:focus + .btn-warning, .btn-warning:focus {
@@ -9873,6 +9873,7 @@ fieldset:disabled .btn {
 
 .text-700 {
   color: #757575 !important;
+  font-style: italic;
 }
 
 .text-800 {
