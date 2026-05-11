@@ -18488,6 +18488,20 @@
     background-color: #f1dadd ;
 }
 
+/* Ajuste de imágenes del slider (header) */
+#header .swiper-slide img {
+  height: 350px; /* altura fija (similar al template) */
+  object-fit: cover; /* recorta sin deformar */
+  border-radius: 15px; /* bordes redondeados */
+}
+
+
+/* Se reduce el espacio entre botón y slider */
+#header:first-of-type .py-8 {
+  padding-bottom: 1rem !important;
+}
+
+
 /* =========================
    SECCION PRODUCTOS
    ========================= */
