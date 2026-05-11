@@ -18526,6 +18526,25 @@
   font-style: italic;
 }
 
+/* Tarjeta completa */
+#productos .card {
+  border-radius: 15px;
+  overflow: hidden; /* 🔥 CLAVE */
+  border: none; /* elimina bordes default */
+}
+
+/* Imagen */
+#productos .card img {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+}
+
+/* Texto (parte inferior) */
+#productos .card-body {
+  background-color: #fdf3f4;
+}
+
 /* Tabs productos estilo limpio (sin caja blanca) */
 #productos .nav-tabs {
   border-bottom: none; 
