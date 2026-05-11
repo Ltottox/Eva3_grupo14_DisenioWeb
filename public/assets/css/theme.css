@@ -18511,7 +18511,7 @@
 
 /* Fondo sección */
 #productos {
-  background-color: #f1dadd; /* color que definiste */
+  background-color: #f1dadd; 
 }
 
 /* Subtítulo */
@@ -18529,7 +18529,7 @@
 /* Tarjeta completa */
 #productos .card {
   border-radius: 15px;
-  overflow: hidden; /* 🔥 CLAVE */
+  overflow: hidden; /*
   border: none; /* elimina bordes default */
 }
 
@@ -18565,6 +18565,16 @@
   color: #0d6efd; /* color del texto cuando está activo */
 }
 
+#testimonial {
+  background-color: #f1dadd; /* rosado suave */
+}
+
+.testimonial-box {
+  background-color: #ffffffcc; /* blanco suave translúcido */
+  border-radius: 20px;        /* bordes redondeados */
+  padding: 30px;              /* espacio interno */
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1); /* sombra suave */
+}
   /*-----------------------------------------------
   |   User Styles
   -----------------------------------------------*/
