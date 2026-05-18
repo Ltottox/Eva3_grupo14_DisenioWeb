@@ -2,31 +2,25 @@
 
 ## Descripción
 
-Este proyecto corresponde a la migración y rediseño del sitio web de **Eco Pilgua**, emprendimiento enfocado en productos personalizados como papelería creativa, stickers, sublimación y diseños a medida.
+Sitio web de **Eco Pilgua**, emprendimiento enfocado en productos personalizados (papelería creativa, stickers, sublimación y diseños a medida). El sitio presenta información clave del emprendimiento y permite visualizar su catálogo de productos, testimonios y datos de contacto de forma clara y ordenada.
 
-El desarrollo se realizó a partir de un template Bootstrap, el cual fue adaptado y mejorado para reflejar la identidad visual del negocio y optimizar la experiencia del usuario.
+Incluye secciones como **Historia**, **Misión y Visión**, **Productos**, **Testimonios** y **Contacto**, con navegación interna para facilitar el recorrido del usuario.
 
 ---
 
-## Migración
+## Demo (Netlify)
 
-Este proyecto no parte desde cero.  
-Corresponde a una **evolución del sitio anterior**, incorporando:
-
-- Mejora en la estructura del contenido
-- Optimización visual y estética
-- Uso de componentes modernos (cards, tabs, slider)
-- Mayor organización del código
+- **Sitio publicado:** https://evaluacion3grupo14.netlify.app/
 
 ---
 
 ## Objetivos
 
-- Modernizar el diseño del sitio web
-- Mejorar la presentación de productos
-- Facilitar la navegación del usuario
-- Adaptar el sitio a un formato más visual e interactivo
-- Mantener identidad del emprendimiento
+- Presentar el emprendimiento y su identidad.
+- Mostrar el catálogo de productos por categorías.
+- Facilitar la navegación y el acceso a la información.
+- Proporcionar un acceso claro a los canales de contacto y redes sociales.
+- Asegurar una correcta visualización en distintos dispositivos (responsive).
 
 ---
 
@@ -42,7 +36,9 @@ Corresponde a una **evolución del sitio anterior**, incorporando:
 
 ## Estructura de imágenes
 
-Las imágenes del proyecto se encuentran en: assets/img/gallery/productos_ecopilgua/
+Las imágenes del proyecto se encuentran en:
+
+- assets/img/gallery/productos_ecopilgua/
 
 ---
 
@@ -56,6 +52,6 @@ El sitio está diseñado para adaptarse a distintos dispositivos:
 
 ---
 
-## Repositorio GitHub
+## Repositorio
 
-https://github.com/Ltottox/Eva3_grupo14_DisenioWeb.git
+- **Código fuente:** https://github.com/Ltottox/Eva3_grupo14_DisenioWeb.git
