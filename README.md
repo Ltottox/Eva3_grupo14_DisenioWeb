@@ -14,6 +14,12 @@ Incluye secciones como **Historia**, **Misión y Visión**, **Productos**, **Tes
 
 ---
 
+## Template
+
+https://themewagon.github.io/clickr/v1.0.0/ 
+
+---
+
 ## Objetivos
 
 - Presentar el emprendimiento y su identidad.
